@@ -20,8 +20,6 @@ A CRUD API for managing recipes built with Node.js, Express.js, and MongoDB.
    ```bash
    npm install
 
-
-
 **Postman Documentation:**
 
 Create a Postman collection with these endpoints:
